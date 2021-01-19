@@ -12,17 +12,17 @@
 ```
 
 ```
-    2) Run for development (localhost:5000):
+    2) Run for development:
         docker-compose up -d
 ``` 
 ```
-    3) Run for production (localhost:9090):    
+    3) Run for production:    
         docker-compose -f docker-compose.prod.yml up -d
 ```
 ## Monitoring
 ```
-    1) localhost:5000
+    1) Development: localhost:5000
 ``` 
 ```
-    2) localhost:9090
+    2) Production localhost:9090
 ```
