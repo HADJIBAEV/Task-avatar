@@ -24,5 +24,5 @@
     1) Development: localhost:5000
 ``` 
 ```
-    2) Production localhost:9090
+    2) Production: localhost:9090
 ```
